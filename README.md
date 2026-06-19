@@ -1,1 +1,1 @@
-# cv_template
+A basic CV template written in Latex.
