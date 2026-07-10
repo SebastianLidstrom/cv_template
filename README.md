@@ -1,1 +1,1 @@
-A basic CV template written in Latex.
+This CV template uses the EBGaramond font which you won't find on a basic Latex installation. You can either change font, do a full Latex download (this will take up about 5 to 6 GiB of space) or download the font from CTAN (https://ctan.org/pkg/ebgaramond?lang=en) and add it to your fonts folder.
